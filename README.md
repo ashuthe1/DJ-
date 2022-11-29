@@ -1,1 +1,1 @@
-#This project was made for fun :)
+This project was made for fun :)
